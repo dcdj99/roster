@@ -1,0 +1,23 @@
+
+.saving-status {
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  margin-right: 1rem;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.saving-status.saving {
+  background-color: #fff3cd;
+  color: #856404;
+}
+
+.saving-status.saved {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.saving-status.failed-to-save {
+  background-color: #f8d7da;
+  color: #721c24;
+}
