@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+firebase.json
+firebase-debug.log
+firestore.rules
